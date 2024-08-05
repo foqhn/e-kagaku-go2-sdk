@@ -28,5 +28,7 @@ add_executable(h1_low_level_example example/humanoid/low_level/humanoid.cpp)
 add_executable(g1_loco_client example/humanoid/high_level/g1_loco_client_example.cpp)
 
 add_executable(sample_project1 myproject/sample_project1.cpp)
+add_executable(sample_project2 myproject/sample_project2_walk_and_snap.cpp)
+add_executable(sample_project1 myproject/sample_project3_keyboard_ctl.cpp)
 
 
