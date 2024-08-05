@@ -13,9 +13,9 @@ sudo ./install.sh
 ```
 
 ### Build examples
-もし、e-kagaku-go2-sdk/buildがすでにある場合、buildフォルダを削除.
-後、以下のコマンドを実行すること.
-プログラムを修正した時には、ビルドをし直すこと.
+もし、e-kagaku-go2-sdk/buildがすでにある場合、buildフォルダを削除. /n
+後、以下のコマンドを実行すること. /n
+プログラムを修正した時には、ビルドをし直すこと. /n
 ```bash
 mkdir build
 cd build
